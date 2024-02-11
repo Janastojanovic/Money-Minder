@@ -1,0 +1,6 @@
+@MoneyMinderAPI_HostAddress = http://localhost:5027
+
+GET {{MoneyMinderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
